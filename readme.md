@@ -40,4 +40,4 @@ Siga os passos abaixo e **certifique-se de que o jogo esteja fechado** antes de 
 
 ---
 
-> **Aviso Legal:** Este é um projeto de fã para fãs. Todos os direitos sobre o jogo e seus ativos pertencem aos desenvolvedores da Dopeloop. 🔴
+> **Aviso Legal:** Este é um projeto de fã para fãs. Todos os direitos sobre o jogo e seus ativos pertencem aos desenvolvedores da Dopeloop.
