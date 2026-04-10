@@ -1,8 +1,6 @@
 # 🍗 Definitely Not Fried Chicken - Tradução PT-BR
 
-[![Download Tradução](https://img.shields.io/badge/Download%20Tradução-orange?style=for-the-badge)](https://github.com/brina-chan/Definitely-not-Fried-Chicken-PT-BR/releases)
-
-![License](https://img.shields.io/badge/Vers%C3%A3o%20do%20Jogo-1.0.45-green?style=for-the-badge)
+[![Download Tradução](https://img.shields.io/badge/Download%20Tradução-orange?style=for-the-badge)](https://github.com/brina-chan/Definitely-not-Fried-Chicken-PT-BR/releases) ![License](https://img.shields.io/badge/Vers%C3%A3o%20do%20Jogo-1.0.45-green?style=for-the-badge)
 
 Tradução para **Português do Brasil (PT-BR)** do jogo *Definitely Not Fried Chicken*. Sinta-se à vontade para gerenciar seu império de "frango" totalmente em nosso idioma!
 
